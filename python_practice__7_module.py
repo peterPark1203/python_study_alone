@@ -22,7 +22,7 @@ print("- shuffle([1,2,3,4,5])", random.shuffle([1,2,3,4,5]))
 #sample(list, k=<숫자>): 리스트의 요소 중에 k개를 뽑습니다.
 print("- sample([1,2,3,4,5], k=2):", random.sample([1,2,3,4,5], k=2))
 
-
+# test 추가 ...
 
 
 
